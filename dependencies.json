@@ -2,7 +2,7 @@
 	"peerDependencies": {
 		"svelte": "^5.0.0"
 	},
-  "dependencies": {
+	"dependencies": {
 		"dockview": "^4.4.0",
 		"dockview-core": "^4.4.0"
 	}
